@@ -89,4 +89,4 @@
                         Think about what was Meant
 
    
-   
+  <a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
