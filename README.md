@@ -1,3 +1,23 @@
+#### Business Consultancy:
+
+```
+what are you about to do?
+
+Website
+
+Business card
+
+Logo
+
+Tag line
+
+Office space
+
+Clothes
+
+```
+
+
 #### Think-Fast-Talk-Smart-Communication-Techniques
 
 #### Communication-Skills
