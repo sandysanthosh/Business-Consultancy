@@ -1,9 +1,11 @@
-# Think-Fast-Talk-Smart-Communication-Techniques
+#### Think-Fast-Talk-Smart-Communication-Techniques
 
-## Skill Set in Workplace:
+#### Communication-Skills
+
+#### Skill Set in Workplace:
 
 
-## Phone Comm:
+#### Phone Comm:
 
       Keep smiling
 
@@ -13,7 +15,7 @@
 
       Enunciate 
 
-## Skype call:
+#### Skype call:
 
       Your background: Well Lit, no Clutter or mess
 
@@ -21,7 +23,7 @@
 
       If on Phone, have a phone stand so camera doesn't shake 
       
-## Video all preparation:
+#### Video all preparation:
 
      Treat it like a meeting
      
@@ -33,7 +35,7 @@
      
      Prepare Talking Points if Presenting
      
-## Listening skills:
+#### Listening skills:
 
                   Don't interrupt
 
@@ -54,7 +56,7 @@
                   Acknowledge other's Point 
 
 
-## Active Listening:
+#### Active Listening:
 
                work on not getting distracted by your mind drifting
 
@@ -76,7 +78,7 @@
 
                are they looking down or making eye contact?
                
-## Listeing and getting Feedback even if negative:
+#### Listeing and getting Feedback even if negative:
 
                         Never get angry
 
@@ -89,4 +91,4 @@
                         Think about what was Meant
 
    
-  <a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
+  <a href="http://starwalt.in/">Follow us on Blog</a>
