@@ -15,8 +15,7 @@ Office space
 
 Clothes
 
-```
-
+``'
 
 #### Think-Fast-Talk-Smart-Communication-Techniques
 
